@@ -1,0 +1,12 @@
+.left, .right {
+    font-size: xx-large;
+}
+
+.left {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.right {
+    background-color: #fef548;
+}
